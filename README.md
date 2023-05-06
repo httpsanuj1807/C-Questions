@@ -2,4 +2,4 @@ Welcome to my C practice questions repository! This repo contains a collection o
 
 To get started, simply clone or download the repository to your local machine and start exploring the file. Each file contains a set of practice problems along with their solutions, written in C language.
 
-Feel free to use these problems for your own learning purposes, or as a resource for teaching C programming to others. If you have any questions or feedback, please don't hesitate to open an issue or pull request. Happy coding!
+Feel free to use these problems for your own learning purposes. If you have any questions or feedback, please don't hesitate to conatct @https_anuj1807 on Instagram. Happy coding!
